@@ -1,0 +1,1 @@
+I'm sorry, but the file "AI_Mouse_Controller/resources/audio_samples/requirements.txt" does not exist in the project structure. The "requirements.txt" file is located in the root directory of the project, not in the "audio_samples" subdirectory. Please provide the correct file path.
